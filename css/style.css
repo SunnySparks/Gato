@@ -1,0 +1,49 @@
+/*.cuadro {
+
+}
+.uno, .tres {
+    margin-top: 300px;
+    background-color: chocolate;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+
+
+.dos {
+    border-left: 20px solid black;
+    border-right: 20px solid black;
+    border-top: 0px solid black;
+    border-bottom: 0px solid black;
+}
+
+.unoDos {
+    border-left: 400px solid black;
+    border-right: 400px solid black;
+    border-top: 0px solid black;
+    border-bottom: 0px solid black;
+}
+*/
+
+td {
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+}
+
+.vertical{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.horizontal {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+table {
+    margin: auto;
+}
+h1 {
+    text-align: center;
+}
